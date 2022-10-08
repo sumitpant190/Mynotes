@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401504900993",
+    "project_id": "mynotes-sumit-flutter",
+    "storage_bucket": "mynotes-sumit-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401504900993:android:4c6c25de4b04d10e5e7a80",
+        "android_client_info": {
+          "package_name": "com.yourdomain.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401504900993-0217gqj3rk7hrd4n8803jrjhuo4ghdh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTfZ7_7eCCeFUWiMXCX9q15qBh1_r1qqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401504900993-0217gqj3rk7hrd4n8803jrjhuo4ghdh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
