@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
   @override
   Widget build(BuildContext context) {
-    print('Building');
+    devtools.log('Building');
     return MaterialApp(
         title: 'Flutter Demo',
         theme: ThemeData(
@@ -26,6 +26,7 @@ class MyApp extends StatelessWidget {
         routes: {
           '/login/': (context) => const LoginView(),
           '/register/': (context) => const RegisterView(),
+          '/notes/': (context) => const NotesView(),
         });
   }
 }
