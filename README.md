@@ -1,2 +1,2 @@
 # Mynotes
-My Notes Flutter Application
+My Notes Flutter Application using firebase
